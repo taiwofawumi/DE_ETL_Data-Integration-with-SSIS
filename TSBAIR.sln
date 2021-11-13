@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TSBAIR", "TSBAIR\TSBAIR.dtproj", "{6409C227-B906-4DE3-9A82-1FF57891F3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6409C227-B906-4DE3-9A82-1FF57891F3D1}.Development|Default.ActiveCfg = Development
+		{6409C227-B906-4DE3-9A82-1FF57891F3D1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DDBA12-58BE-4B6B-B653-75E1E926F76B}
+	EndGlobalSection
+EndGlobal
